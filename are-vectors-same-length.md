@@ -11,7 +11,8 @@ This function compares the lengths of two vectors. Given two vectors defined by 
 
 ### Returns
 
-Returns "true" if the vectors are equal.
+- `true` if the vectors are parallel.
+- `false` otherwise.
 
 ### Code
 
